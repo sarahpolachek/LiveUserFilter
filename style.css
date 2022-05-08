@@ -17,9 +17,9 @@ body {
 
 .container {
     border-radius: 5px;
-    box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
-    overflow:hidden;
-    width:300px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 300px;
 }
 
 .title {
@@ -29,7 +29,7 @@ body {
 .subtitle {
     display: inline-block;
     margin: 5px 0 20px;
-    opcaity: 0.8;
+    opacity: 0.8;
 }
 
 .header {
@@ -39,7 +39,7 @@ body {
 }
 
 .header input {
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     border: 0;
     border-radius: 50px;
     color: #fff;
@@ -56,9 +56,9 @@ body {
     background-color: #fff;
     list-style-type: none;
     margin: 0;
+    padding: 0;
     max-height: 400px;
     overflow-y: auto;
-    padding: 0;
 }
 
 .user-list li {
